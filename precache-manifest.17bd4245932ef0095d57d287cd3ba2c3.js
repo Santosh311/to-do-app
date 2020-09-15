@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2e22f0beaebd5febb874cb3efb27852",
+    "revision": "d75bc09cf93dd524a2bc23d635008532",
     "url": "/santosh311.github.io/to-do-app/index.html"
   },
   {
-    "revision": "3765ea1b4eacec44e9eb",
-    "url": "/santosh311.github.io/to-do-app/static/css/main.52463531.chunk.css"
+    "revision": "962a11b8683743921e73",
+    "url": "/santosh311.github.io/to-do-app/static/css/main.9537d0f4.chunk.css"
   },
   {
     "revision": "9e87495071e410afcddf",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/santosh311.github.io/to-do-app/static/js/2.d33ceb77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3765ea1b4eacec44e9eb",
-    "url": "/santosh311.github.io/to-do-app/static/js/main.bb4c292c.chunk.js"
+    "revision": "962a11b8683743921e73",
+    "url": "/santosh311.github.io/to-do-app/static/js/main.e4fc3a26.chunk.js"
   },
   {
     "revision": "623c5cd90d044a5510cd",
